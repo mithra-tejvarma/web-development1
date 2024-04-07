@@ -1,0 +1,10 @@
+.google{
+    text-decoration: none;
+    
+}
+.google:active{
+    color: red;
+}
+a{
+    text-decoration: none;
+}

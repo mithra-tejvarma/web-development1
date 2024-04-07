@@ -1,0 +1,12 @@
+.m-logo{
+ width: 300px;
+ height: 300px;
+}
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("https://st2.depositphotos.com/5943796/11310/v/600/depositphotos_113103402-stock-illustration-letter-m-swoosh-silver-gold.jpg");
+    background-repeat: repeat;
+    
+}
