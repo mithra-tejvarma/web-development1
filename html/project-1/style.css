@@ -1,0 +1,23 @@
+.upper-section{
+display: block;
+
+}
+.left-section{
+    display: inline-block;
+    border: 2px solid blue;
+    width: 400px;
+    
+    
+    
+}
+.right-section{
+    display: inline-block;
+    border: 2px solid blueviolet;
+    width: 380px;
+    
+}
+.middle-section{
+    display: flex;
+    flex: 1;
+    border: 2px solid blue;
+}
